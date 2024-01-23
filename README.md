@@ -1,5 +1,4 @@
 # Restaurant Management System - C Programming
-![Restaurant Image](RMS-img.jpg)
 
 This program manages a restaurant system with products, orders, and tables. It reads instructions from the "Instructions.txt" file to perform various functions such as creating a list of products, adding items to the kitchen, taking orders, canceling orders, and removing tables.
 
@@ -43,5 +42,8 @@ This program manages a restaurant system with products, orders, and tables. It r
 - 2 Milk were ordered for table 1
 - 3 Cheese order canceled for table 2
 - The table number 3 is not ordered yet
+
+  
+
 
 
